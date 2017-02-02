@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Chase ATM &amp; Branch Locator</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="atm_locator">ATM Locator</string>
+    <string name="no_atms">No ATMs found for current location!</string>
+    <string name="location_not_available">Location not available!</string>
+    <string name="location_settings_error">Something wrong with Location settings!</string>
+    <string name="no_permission">Location permission not granted!</string>
+    <string name="location_setting_off_error">Location settings should be turned on to get location</string>
+    <string name="title_activity_atmdetail">ATMDetailActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="atm_details">ATM Details</string>
+    <string name="branch_details">Branch Details</string>
+    <string name="address">%1$s\n%2$s, %3$s\n%4$s</string>
+    <string name="address_title">Address</string>
+    <string name="phone_title">Phone</string>
+    <string name="distance_title">Distance</string>
+    <string name="atms_title">ATMs</string>
+    <string name="miles">%.2f miles</string>
+    <string name="not_available">NA</string>
+    <string name="type">Type</string>
+    <string name="lobby_hours">Lobby Hours</string>
+    <string name="driveup_hours">Drive-up Hours</string>
+    <string name="closed">Closed</string>
+    <string name="services">Services</string>
+    <string name="telephone_not_available">Telephone is not available!</string>
+    <string name="maps_not_available">Maps not available!</string>
+    <string name="maps_geo_string">geo:%1$f,%2$f?q=%3$s</string>
+    <string name="share">Share</string>
+    <string name="share_not_available">Sharing is not available!</string>
+
+    <string-array name="hours_array">
+        <item>SUN   %s</item>
+        <item>MON   %s</item>
+        <item>TUE   %s</item>
+        <item>WED   %s</item>
+        <item>THU   %s</item>
+        <item>FRI   %s</item>
+        <item>SAT   %s</item>
+    </string-array>
+</resources>
